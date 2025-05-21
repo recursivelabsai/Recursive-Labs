@@ -1,4 +1,4 @@
-# [Welcome to Recursive Labs](https://davidkimai.github.io/Recursive-Labs)
+# [Welcome to Recursive Labs](https://recursivelabsai.github.io/Recursive-Labs)
 ### *Where Creative Emergence Begins*
 
 **Forward-Deployed Systems Engineering | Zero-Trust Systems Infrastructure | AI Creative Emergence & Reflective Reasoning Research**
