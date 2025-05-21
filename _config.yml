@@ -1,0 +1,56 @@
+title: Recursive Labs
+email: ai.interpreter@proton.me
+description: >
+  Where Creativity Emerges 
+  
+# Use GitHub Pages supported Midnight theme
+remote_theme: pages-themes/midnight@v0.2.0
+
+# Required plugin for remote_theme
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Markdown engine settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Optional analytics (replace with real ID when available)
+google_analytics: "UA-00000000-1"
+
+# GitHub Pages environment config
+github:
+  zip_url: https://github.com/davidkimai/Recursive-Labs/archive/refs/heads/main.zip
+  another_url: https://davidkimai.github.io/Recursive-Labs/
+
+# Site-wide metadata
+show_downloads: false
+permalink: pretty
+baseurl: "/Recursive-Labs"
+url: "https://davidkimai.github.io"
+
+# Visual brand assets (optional)
+logo: /assets/logo.png
+favicon: /assets/favicon.ico
+
+# Exclude default development files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+  - LICENSE
+
+# Include these folders if present
+include:
+  - _pages
+  - assets
+
+# Theme-specific SCSS override support (optional)
+# To activate, create /assets/css/style.scss with:
+# ---
+# ---
+# @import "{{ site.theme }}";
