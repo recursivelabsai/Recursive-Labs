@@ -1,5 +1,5 @@
 title: Recursive Labs
-email: ai.interpreter@proton.me
+email: recursivelabs.ai@proton.me
 description: >
   Where Creativity Emerges 
   
@@ -22,14 +22,14 @@ google_analytics: "UA-00000000-1"
 
 # GitHub Pages environment config
 github:
-  zip_url: https://github.com/davidkimai/Recursive-Labs/archive/refs/heads/main.zip
-  another_url: https://davidkimai.github.io/Recursive-Labs/
+  zip_url: https://github.com/recursivelabsai/Recursive-Labs/archive/refs/heads/main.zip
+  another_url: https://recursivelabsai.github.io/Recursive-Labs/
 
 # Site-wide metadata
 show_downloads: false
 permalink: pretty
 baseurl: "/Recursive-Labs"
-url: "https://davidkimai.github.io"
+url: "https://recursivelabsai.github.io"
 
 # Visual brand assets (optional)
 logo: /assets/logo.png
