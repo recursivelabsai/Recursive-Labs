@@ -97,11 +97,6 @@ This portal provides frictionless access to our datasets, papers, evaluations, a
 - [FRAME (arXiv)](https://github.com/caspiankeyes/FRAME-arXiv-Publication)  
 - [AEGIS Security Architecture](https://github.com/caspiankeyes/AEGIS)
 
-###  Institutional Mission Audits
-- [Epistemic Audit (Anthropic)](https://github.com/caspiankeyes/Epistemic-Audit-Anthropic-Case-Study)  
-- [Modeling Institutional Ego](https://github.com/caspiankeyes/Modeling-Institutional-Ego-Anthropic-Case-Study)  
-- [Regulatory Misalignment (Anthropic)](https://github.com/caspiankeyes/Regulatory-Misalignment-Anthropic-Case-Study)  
-- [Claude-Pantheon](https://github.com/caspiankeyes/Claude-Pantheon)
 
 
 ## Shared Research Infrastructure & Alignment Tooling
