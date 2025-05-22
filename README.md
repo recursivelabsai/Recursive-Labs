@@ -2,7 +2,8 @@
 ### *Where Creative Emergence Begins*
 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15485943.svg)](https://doi.org/10.5281/zenodo.15485943)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15485968.svg)](https://doi.org/10.5281/zenodo.15485968)
+
 
 
 **Forward-Deployed Systems Engineering | Zero-Trust Systems Infrastructure | AI Creative Emergence & Reflective Reasoning Research**
