@@ -40,6 +40,8 @@ This portal provides frictionless access to our datasets, papers, evaluations, a
 ## David Kim – Finetuning Reflective Reasoning, Symbolic Interpretability & Attribution Infrastructure  
 [**GitHub Profile → davidkimai**](https://github.com/davidkimai)
 
+
+
 ### Reflective Emergence Self-Evaluation Training Dataset
 - [Symbolic Residue Database](https://github.com/davidkimai/symbolic-residue-db)
 - [Universal Theorems](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/blob/main/00.%20universal%20theorems/universal_theorems.md)
