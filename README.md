@@ -1,8 +1,7 @@
 # [Welcome to Recursive Labs](https://recursivelabsai.github.io/Recursive-Labs)
 ### *Where Creative Emergence Begins*
 
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15485968.svg)](https://doi.org/10.5281/zenodo.15485968)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15489588.svg)](https://doi.org/10.5281/zenodo.15489588)
 
 
 
