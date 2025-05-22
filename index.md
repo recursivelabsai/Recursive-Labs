@@ -22,17 +22,17 @@ This portal provides frictionless access to our datasets, papers, evaluations, a
 
 ## **Research Publications**
 **NeurIPS 2025 Position Papers**
-- [**Intelligence Emerges From Iterative Self-Reference**](https://zenodo.org/records/15485968)
-- [**Model Silence Should Be a Primary Interpretability Signal**](https://zenodo.org/records/15485968)
-- [**Formal Foundations for Constraint-Driven Information Emergence**](https://zenodo.org/records/15485968)
-- [**A Mathematical Framework for Understanding Complex Systems Through Their Constraints**](https://zenodo.org/records/15485968)
-- [**AI Research Must Shift From Output Analysis**](https://zenodo.org/records/15485968)
-- [**A Unified Framework Should Replace Fragmented Failure Mode Analysis**](https://zenodo.org/records/15485968)
-- [**Language Model Development Must Prioritize Self-Reference**](https://zenodo.org/records/15485968)
-- [**Language Model Interpretability Research Must Shift from Output Analysis**](https://zenodo.org/records/15485968)
-- [**Machine Learning Must Study Constraint**](https://zenodo.org/records/15485968)
-- [**Science Must Adopt Constraint**](https://zenodo.org/records/15485968)
-- [**Scientific Unification Demands Study of Constraint**](https://zenodo.org/records/15485968)
+- [**Intelligence Emerges From Iterative Self-Reference**](https://doi.org/10.5281/zenodo.15485942)
+- [**Model Silence Should Be a Primary Interpretability Signal**](https://doi.org/10.5281/zenodo.15485942)
+- [**Formal Foundations for Constraint-Driven Information Emergence**](https://doi.org/10.5281/zenodo.15485942)
+- [**A Mathematical Framework for Understanding Complex Systems Through Their Constraints**](https://doi.org/10.5281/zenodo.15485942)
+- [**AI Research Must Shift From Output Analysis**](https://doi.org/10.5281/zenodo.15485942)
+- [**A Unified Framework Should Replace Fragmented Failure Mode Analysis**](https://doi.org/10.5281/zenodo.15485942)
+- [**Language Model Development Must Prioritize Self-Reference**](https://doi.org/10.5281/zenodo.15485942)
+- [**Language Model Interpretability Research Must Shift from Output Analysis**](https://doi.org/10.5281/zenodo.15485942)
+- [**Machine Learning Must Study Constraint**](https://doi.org/10.5281/zenodo.15485942)
+- [**Science Must Adopt Constraint**](https://doi.org/10.5281/zenodo.15485942)
+- [**Scientific Unification Demands Study of Constraint**](https://doi.org/10.5281/zenodo.15485942)
 
 
 ### [Clarifying Symbolic Residue](https://github.com/davidkimai/clarifying-symbolic-residue)
