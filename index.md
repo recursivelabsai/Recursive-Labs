@@ -21,7 +21,7 @@ This portal provides frictionless access to our datasets, papers, evaluations, a
 
 
 ## **Research Publications**
-**NeurIPS 2025 Position Papers**
+**[NeurIPS 2025 Position Papers](https://doi.org/10.5281/zenodo.15485942)**
 - [**Intelligence Emerges From Iterative Self-Reference**](https://doi.org/10.5281/zenodo.15485942)
 - [**Model Silence Should Be a Primary Interpretability Signal**](https://doi.org/10.5281/zenodo.15485942)
 - [**Formal Foundations for Constraint-Driven Information Emergence**](https://doi.org/10.5281/zenodo.15485942)
