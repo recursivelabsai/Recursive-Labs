@@ -15,6 +15,7 @@ Our work spans mission-critical AI safety, multi-domain intelligence, creative i
 This portal provides frictionless access to our datasets, papers, evaluations, and tools—unifying Recursive Labs' contributions across David Kim and Caspian Keyes.
 ## Link Hub
 
+
 ## **RESEARCH PUBLICATIONS**
 **NeurIPS 2025 Position Papers**
 - [**Intelligence Emerges From Iterative Self-Reference**](https://zenodo.org/records/15485968)
@@ -22,7 +23,7 @@ This portal provides frictionless access to our datasets, papers, evaluations, a
 - [**Formal Foundations for Constraint-Driven Information Emergence**](https://zenodo.org/records/15485968)
 - [**A Mathematical Framework for Understanding Complex Systems Through Their Constraints**](https://zenodo.org/records/15485968)
 - [**AI Research Must Shift From Output Analysis**](https://zenodo.org/records/15485968)
-- [**Coherence Under Strain - A Unified Framework**](https://zenodo.org/records/15485968)
+- [**A Unified Framework Should Replace Fragmented Failure Mode Analysis**](https://zenodo.org/records/15485968)
 - [**Language Model Development Must Prioritize Self-Reference**](https://zenodo.org/records/15485968)
 - [**Language Model Interpretability Research Must Shift from Output Analysis**](https://zenodo.org/records/15485968)
 - [**Machine Learning Must Study Constraint**](https://zenodo.org/records/15485968)
