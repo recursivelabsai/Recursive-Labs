@@ -3,7 +3,7 @@ layout: default
 title: Recursive Labs
 ---
 # [Welcome to Recursive Labs](https://recursivelabsai.github.io/Recursive-Labs)
-### *Where Creative Emergence Begins*
+### *And Innovation Begins*
 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15485968.svg)](https://doi.org/10.5281/zenodo.15485968)
@@ -21,7 +21,7 @@ This portal provides frictionless access to our datasets, papers, evaluations, a
 ## Link Hub
 
 
-## **RESEARCH PUBLICATIONS**
+## **Research Publications**
 **NeurIPS 2025 Position Papers**
 - [**Intelligence Emerges From Iterative Self-Reference**](https://zenodo.org/records/15485968)
 - [**Model Silence Should Be a Primary Interpretability Signal**](https://zenodo.org/records/15485968)
