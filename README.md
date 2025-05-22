@@ -15,11 +15,11 @@ Welcome. Recursive Labs is a research collective of inspired frontier researcher
 Our work spans mission-critical AI safety, multi-domain intelligence, creative iterative reasoning, and compute-free scaling—delivered through open-source research, interpretability frameworks, and multi-agent infrastructure.
 
 This portal provides frictionless access to our datasets, papers, evaluations, and tools—unifying Recursive Labs' contributions across David Kim and Caspian Keyes.
+
 ## Link Hub
 
-
-## **RESEARCH PUBLICATIONS**
-**NeurIPS 2025 Position Papers**
+## **Research Publications**
+**[NeurIPS 2025 Position Papers](https://doi.org/10.5281/zenodo.15485942)**
 - [**Intelligence Emerges From Iterative Self-Reference**](https://doi.org/10.5281/zenodo.15485942)
 - [**Model Silence Should Be a Primary Interpretability Signal**](https://doi.org/10.5281/zenodo.15485942)
 - [**Formal Foundations for Constraint-Driven Information Emergence**](https://doi.org/10.5281/zenodo.15485942)
@@ -31,6 +31,7 @@ This portal provides frictionless access to our datasets, papers, evaluations, a
 - [**Machine Learning Must Study Constraint**](https://doi.org/10.5281/zenodo.15485942)
 - [**Science Must Adopt Constraint**](https://doi.org/10.5281/zenodo.15485942)
 - [**Scientific Unification Demands Study of Constraint**](https://doi.org/10.5281/zenodo.15485942)
+
 
 
 ### [Clarifying Symbolic Residue](https://github.com/davidkimai/clarifying-symbolic-residue)
