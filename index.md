@@ -4,6 +4,11 @@ title: Recursive Labs
 ---
 # [Welcome to Recursive Labs](https://davidkimai.github.io/Recursive-Labs)
 ### *Where Creative Emergence Begins*
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15485943.svg)](https://doi.org/10.5281/zenodo.15485943)
+
+
 **Forward-Deployed Systems Engineering | Zero-Trust Systems Infrastructure | AI Creative Emergence & Reflective Reasoning Research**
 > *AI Research and Utility For Innovators Advancing Discovery At The Frontier*
 
