@@ -14,23 +14,26 @@ Our work spans mission-critical AI safety, multi-domain intelligence, creative i
 
 This portal provides frictionless access to our datasets, papers, evaluations, and tools—unifying Recursive Labs' contributions across David Kim and Caspian Keyes.
 ## Link Hub
+
+## **RESEARCH PUBLICATIONS**
+**NeurIPS 2025 Position Papers**
+- [**Intelligence Emerges From Iterative Self-Reference**](https://zenodo.org/records/15485968)
+- [**Model Silence Should Be a Primary Interpretability Signal**](https://zenodo.org/records/15485968)
+- [**Formal Foundations for Constraint-Driven Information Emergence**](https://zenodo.org/records/15485968)
+- [**A Mathematical Framework for Understanding Complex Systems Through Their Constraints**](https://zenodo.org/records/15485968)
+- [**AI Research Must Shift From Output Analysis**](https://zenodo.org/records/15485968)
+- [**Coherence Under Strain - A Unified Framework**](https://zenodo.org/records/15485968)
+- [**Language Model Development Must Prioritize Self-Reference**](https://zenodo.org/records/15485968)
+- [**Language Model Interpretability Research Must Shift from Output Analysis**](https://zenodo.org/records/15485968)
+- [**Machine Learning Must Study Constraint**](https://zenodo.org/records/15485968)
+- [**Science Must Adopt Constraint**](https://zenodo.org/records/15485968)
+- [**Scientific Unification Demands Study of Constraint**](https://zenodo.org/records/15485968)
+
+
 ### [Clarifying Symbolic Residue](https://github.com/davidkimai/clarifying-symbolic-residue)
 
 ## David Kim – Finetuning Reflective Reasoning, Symbolic Interpretability & Attribution Infrastructure  
 [**GitHub Profile → davidkimai**](https://github.com/davidkimai)
-
-
-
-[**NeurIPS 2025**](https://github.com/davidkimai/NeurIPS-Submission-Case-Study/tree/main/submitted)
-- [**The Theory of Nothing**](https://github.com/davidkimai/NeurIPS-Submission-Case-Study/blob/main/submitted/00.%20neurips.the.theory.of.nothing.md)
-- [**Linear Learning as an Evolutionary Bottleneck**](https://github.com/davidkimai/NeurIPS-Submission-Case-Study/blob/main/submitted/00.%20neurips.linear.bottleneck.md)
-- [**Recursive Coherence**](https://github.com/davidkimai/NeurIPS-Submission-Case-Study/blob/main/submitted/00.%20neurips.recursive.coherence.md)
-
-**Position Papers**
-- [**Model Silence Should Be a Primary Interpretability Signal**](https://github.com/davidkimai/Recursive-Labs/blob/main/neurips-position-papers/Model%20Silence%20Should%20Be%20a%20Primary%20Interpretability%20Signal.pdf)
-- [**Coherence Under Strain - A Unified Framework**](https://github.com/davidkimai/Recursive-Labs/blob/main/neurips-position-papers/Coherence%20Under%20Strain%20-%20A%20Unified%20Framework.pdf)
-- [**Language Model Development Must Prioritize Self-Reference**](https://github.com/davidkimai/Recursive-Labs/blob/main/neurips-position-papers/Language%20Model%20Development%20Must%20Prioritize%20Self-Reference.pdf)
-- [**Language Model Interpretability Research Must Shift from Output Analysis**](https://github.com/davidkimai/Recursive-Labs/blob/main/neurips-position-papers/Language%20Model%20Interpretability%20Research%20Must%20Shift%20from%20Output%20Analysis%20to%20Hesitation%20Pattern%20Study.pdf)
 
 ### Reflective Emergence Self-Evaluation Training Dataset
 - [Symbolic Residue Database](https://github.com/davidkimai/symbolic-residue-db)
