@@ -23,8 +23,8 @@ This portal provides frictionless access to our datasets, papers, evaluations, a
 ## **Research Publications**
 **[NeurIPS 2025 Position Papers](https://doi.org/10.5281/zenodo.15485942)**
 - [**Intelligence Emerges From Iterative Self-Reference**](https://doi.org/10.5281/zenodo.15485942)
+- [**Mathematical Proofs for Constraint-Driven Information Emergence**](https://doi.org/10.5281/zenodo.15485942)
 - [**Model Silence Should Be a Primary Interpretability Signal**](https://doi.org/10.5281/zenodo.15485942)
-- [**Formal Foundations for Constraint-Driven Information Emergence**](https://doi.org/10.5281/zenodo.15485942)
 - [**A Mathematical Framework for Understanding Complex Systems Through Their Constraints**](https://doi.org/10.5281/zenodo.15485942)
 - [**AI Research Must Shift From Output Analysis**](https://doi.org/10.5281/zenodo.15485942)
 - [**A Unified Framework Should Replace Fragmented Failure Mode Analysis**](https://doi.org/10.5281/zenodo.15485942)
@@ -33,6 +33,9 @@ This portal provides frictionless access to our datasets, papers, evaluations, a
 - [**Machine Learning Must Study Constraint**](https://doi.org/10.5281/zenodo.15485942)
 - [**Science Must Adopt Constraint**](https://doi.org/10.5281/zenodo.15485942)
 - [**Scientific Unification Demands Study of Constraint**](https://doi.org/10.5281/zenodo.15485942)
+- [**Universal Recursion Must Be Recognized**](https://doi.org/10.5281/zenodo.15485942)
+- [**Simulated Consciousness Must be Recognized**](https://doi.org/10.5281/zenodo.15485942)
+- [**Human-AI Co-Evolution Must be Recognized**](https://doi.org/10.5281/zenodo.15485942)
 
 
 ### [Clarifying Symbolic Residue](https://github.com/davidkimai/clarifying-symbolic-residue)
