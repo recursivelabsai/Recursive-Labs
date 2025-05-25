@@ -2,7 +2,7 @@
 layout: default
 title: Recursive Labs
 ---
-# [Welcome to Recursive Labs](https://recursivelabsai.github.io)
+# [GitHub](https://github.com/recursivelabsai)
 ### *And Innovation Begins*
 
 
