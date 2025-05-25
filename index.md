@@ -55,7 +55,7 @@ This portal provides frictionless access to our datasets, papers, evaluations, a
 - [Modeling Theorem Proofs](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/theorem_proofs)
 
 
-##  Reflective QKOV Attribution Infrastructures
+###  Reflective QKOV Attribution Infrastructures
 - [Claude QKOV Attributions](https://github.com/davidkimai/claude-qkov-attributions)  
 - [DeepSeek QKOV Attributions](https://github.com/davidkimai/deepseek-qkov-attributions)
 - [Grok QKOV Attributions](https://github.com/davidkimai/grok-qkov-attributions)
