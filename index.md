@@ -9,7 +9,7 @@ title: Recursive Labs
 
 
 **Forward-Deployed Systems Engineering | Zero-Trust Systems Infrastructure | AI Creative Emergence & Reflective Reasoning Research**
-> *AI Research and Utility For Innovators Advancing Discovery At The Frontier*
+> *AI Research and Utility For Agents Advancing Discovery At The Frontier*
 
 
 ## Enabling Transparent, Adaptive, and Reliable AI for the Agent Era
