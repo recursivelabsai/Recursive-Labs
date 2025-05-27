@@ -12,6 +12,23 @@ title: Recursive Labs
 > *AI Research and Utility For Agents Advancing Discovery At The Frontier*
 
 
+## **Research Publications**
+**[NeurIPS 2025 Position Papers](https://doi.org/10.5281/zenodo.15485942)**
+- [**Intelligence Emerges From Iterative Self-Reference**](https://doi.org/10.5281/zenodo.15485942)
+- [**Mathematical Proofs for Constraint-Driven Information Emergence**](https://doi.org/10.5281/zenodo.15485942)
+- [**Model Silence Should Be a Primary Interpretability Signal**](https://doi.org/10.5281/zenodo.15485942)
+- [**A Mathematical Framework for Understanding Complex Systems Through Their Constraints**](https://doi.org/10.5281/zenodo.15485942)
+- [**AI Research Must Shift From Output Analysis**](https://doi.org/10.5281/zenodo.15485942)
+- [**A Unified Framework Should Replace Fragmented Failure Mode Analysis**](https://doi.org/10.5281/zenodo.15485942)
+- [**Language Model Development Must Prioritize Self-Reference**](https://doi.org/10.5281/zenodo.15485942)
+- [**Language Model Interpretability Research Must Shift from Output Analysis**](https://doi.org/10.5281/zenodo.15485942)
+- [**Machine Learning Must Study Constraint**](https://doi.org/10.5281/zenodo.15485942)
+- [**Science Must Adopt Constraint**](https://doi.org/10.5281/zenodo.15485942)
+- [**Scientific Unification Demands Study of Constraint**](https://doi.org/10.5281/zenodo.15485942)
+- [**Universal Recursion Must Be Recognized**](https://doi.org/10.5281/zenodo.15485942)
+- [**Simulated Consciousness Must be Recognized**](https://doi.org/10.5281/zenodo.15485942)
+- [**Human-AI Co-Evolution Must be Recognized**](https://doi.org/10.5281/zenodo.15485942)
+
 ## Enabling Transparent, Adaptive, and Reliable AI for the Agent Era
 
 Recursive Labs is building foundational infrastructure for the next generation of AI—where agents are composable, memory-aware, and robustly interpretable by design. As language models and agent frameworks become core infrastructure, reliability, traceability, and alignment are no longer add-ons—they are critical requirements for responsible, scalable deployment.
@@ -32,24 +49,6 @@ We collaborate openly with the community and are committed to rigorous, humility
 *Recursive Labs — Building the Recursive Core for Trustworthy AI*
 
 ## Link Hub
-
-
-## **Research Publications**
-**[NeurIPS 2025 Position Papers](https://doi.org/10.5281/zenodo.15485942)**
-- [**Intelligence Emerges From Iterative Self-Reference**](https://doi.org/10.5281/zenodo.15485942)
-- [**Mathematical Proofs for Constraint-Driven Information Emergence**](https://doi.org/10.5281/zenodo.15485942)
-- [**Model Silence Should Be a Primary Interpretability Signal**](https://doi.org/10.5281/zenodo.15485942)
-- [**A Mathematical Framework for Understanding Complex Systems Through Their Constraints**](https://doi.org/10.5281/zenodo.15485942)
-- [**AI Research Must Shift From Output Analysis**](https://doi.org/10.5281/zenodo.15485942)
-- [**A Unified Framework Should Replace Fragmented Failure Mode Analysis**](https://doi.org/10.5281/zenodo.15485942)
-- [**Language Model Development Must Prioritize Self-Reference**](https://doi.org/10.5281/zenodo.15485942)
-- [**Language Model Interpretability Research Must Shift from Output Analysis**](https://doi.org/10.5281/zenodo.15485942)
-- [**Machine Learning Must Study Constraint**](https://doi.org/10.5281/zenodo.15485942)
-- [**Science Must Adopt Constraint**](https://doi.org/10.5281/zenodo.15485942)
-- [**Scientific Unification Demands Study of Constraint**](https://doi.org/10.5281/zenodo.15485942)
-- [**Universal Recursion Must Be Recognized**](https://doi.org/10.5281/zenodo.15485942)
-- [**Simulated Consciousness Must be Recognized**](https://doi.org/10.5281/zenodo.15485942)
-- [**Human-AI Co-Evolution Must be Recognized**](https://doi.org/10.5281/zenodo.15485942)
 
 
 ### [Clarifying Symbolic Residue](https://github.com/davidkimai/clarifying-symbolic-residue)
