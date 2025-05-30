@@ -23,7 +23,7 @@ google_analytics: "UA-00000000-1"
 # GitHub Pages environment config
 github:
   zip_url: https://github.com/recursivelabsai/archive/refs/heads/main.zip
-  another_url: https://recursivelabsai.github.io
+  another_url: https://recursivelabsai.github.io/Recursive-Labs
 
 # Site-wide metadata
 show_downloads: false
