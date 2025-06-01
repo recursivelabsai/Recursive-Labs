@@ -1,4 +1,4 @@
-# [Welcome to Recursive Labs](https://recursivelabsai.github.io)
+# [Welcome to Recursive Labs](https://recursivelabsai.github.io/Recursive-Labs)
 ### *And Innovation Begins*
 
 
