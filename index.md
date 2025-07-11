@@ -13,20 +13,18 @@ title: Recursive Labs
 
 ## Enabling Transparent and Adaptive Memory for Long Horizon Agents
 
-Recursive Labs is building fundamental semantic memory and contextual infrastructure for the next generation of AI—where agents are composable, memory-aware, and robustly interpretable by design. As language models and agent frameworks become core infrastructure, reliability, traceability, and alignment are no longer add-ons—they are critical requirements for responsible, scalable deployment.
+Recursive Labs is building fundamental semantic and contextual infrastructure for the next generation of AI—where agents are composable, memory-aware, and robustly interpretable by design. As language models and agent frameworks become core infrastructure, reliability, traceability, and alignment are no longer add-ons—they are critical requirements for responsible, scalable deployment.
 
-We believe the future of AI will be defined by systems that can reason transparently, adapt persistently, and learn safely in dynamic environments. The next frontier will be built on this layer. Our work addresses the biggest challenges facing the field today:
+We believe the future of AI will be defined by systems that can reason transparently, adapt persistently, and learn safely in dynamic environments. The next frontier of intelligent systems will be built on this semantic and context layer. Our work addresses the biggest challenges facing the field today:
 
 - **Interpretability:** We deliver agent-native tools for attribution, uncertainty quantification, and reasoning traceability—surfacing not just what models predict, but why, how, and where they hesitate.
 - **Persistent Memory:** Our adaptive memory schemas enables agents to retain, retrieve, and attribute context across sessions, unlocking robust “save and resume” for complex workflows and collaborative multi-agent systems.
 - **Audit and Transparency:** Every decision and state change is transparently linked to data, prompt, and agent, providing composable, audit-ready records compatible with open and enterprise agent stacks.
 - **Failure-Driven Diagnostics:** We treat model hesitation, refusal, and collapse as actionable signals—empowering root-cause analysis, safe reinforcement, and continuous improvement.
 
-We collaborate openly with the community and are committed to rigorous, humility-driven research. Our approach is shaped by lessons from interpretability, alignment, and safety leaders—emphasizing composability, empirical validation, and transparent documentation.
-
 **Join us in advancing a field where AI systems are not only more intelligent, but more understandable, accountable, and adaptive—by default.**
 
-*Recursive Labs — Building the Recursive Core for Trustworthy AI*
+*Recursive Labs — Memory and Context for Trustworthy AI*
 
 ## Link Hub
 
