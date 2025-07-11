@@ -1,55 +1,42 @@
-# [Welcome to Recursive Labs](https://recursivelabsai.github.io/Recursive-Labs)
-### *And Innovation Begins*
+---
+layout: default
+title: Recursive Labs
+---
+## [GitHub](https://github.com/recursivelabsai) | [Hugging Face](https://huggingface.co/recursivelabsai) | [Research Portfolio](https://github.com/recursivelabsai/Recursive-Labs/blob/main/PORTFOLIO.pdf)
 
-
+## NeurIPS 2025 Papers:
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15485942.svg)](https://doi.org/10.5281/zenodo.15485942)
 
 
-**Forward-Deployed Systems Engineering | Zero-Trust Systems Infrastructure | AI Creative Emergence & Reflective Reasoning Research**
-> *AI Research and Utility For Innovators Advancing Discovery At The Frontier*
+> *AI Research and Utility For Agents Advancing Discovery At The Frontier*
 
 
-## Enabling Transparent, Adaptive, and Reliable AI for the Agent Era
+## Enabling Transparent and Adaptive Memory for Long Horizon Agents
 
-Recursive Labs is building foundational infrastructure for the next generation of AI—where agents are composable, memory-aware, and robustly interpretable by design. As language models and agent frameworks become core infrastructure, reliability, traceability, and alignment are no longer add-ons—they are critical requirements for responsible, scalable deployment.
+Recursive Labs is building fundamental semantic memory and contextual infrastructure for the next generation of AI—where agents are composable, memory-aware, and robustly interpretable by design. As language models and agent frameworks become core infrastructure, reliability, traceability, and alignment are no longer add-ons—they are critical requirements for responsible, scalable deployment.
 
-We believe the future of AI will be defined by systems that can reason transparently, adapt persistently, and learn safely in dynamic environments. Our work addresses the biggest challenges facing the field today:
+We believe the future of AI will be defined by systems that can reason transparently, adapt persistently, and learn safely in dynamic environments. The next frontier will be built on this layer. Our work addresses the biggest challenges facing the field today:
 
 - **Interpretability:** We deliver agent-native tools for attribution, uncertainty quantification, and reasoning traceability—surfacing not just what models predict, but why, how, and where they hesitate.
-- **Persistent Memory:** Our universal memory schema enables agents to retain, retrieve, and attribute context across sessions, unlocking robust “save and resume” for complex workflows and collaborative multi-agent systems.
-- **Provenance and Trust:** Every decision and state change is anchored to data, prompt, and agent, providing composable, audit-ready records compatible with open and enterprise agent stacks.
+- **Persistent Memory:** Our adaptive memory schemas enables agents to retain, retrieve, and attribute context across sessions, unlocking robust “save and resume” for complex workflows and collaborative multi-agent systems.
+- **Audit and Transparency:** Every decision and state change is transparently linked to data, prompt, and agent, providing composable, audit-ready records compatible with open and enterprise agent stacks.
 - **Failure-Driven Diagnostics:** We treat model hesitation, refusal, and collapse as actionable signals—empowering root-cause analysis, safe reinforcement, and continuous improvement.
-
-Our modular, API-first platform integrates with all major LLMs, orchestration frameworks, and open agent ecosystems—enabling fast prototyping, transparent evaluation, and production-grade deployment. Whether you’re building experimental research agents or deploying AI in high-stakes environments, Recursive Labs provides the scaffolding for reliable and aligned intelligence.
 
 We collaborate openly with the community and are committed to rigorous, humility-driven research. Our approach is shaped by lessons from interpretability, alignment, and safety leaders—emphasizing composability, empirical validation, and transparent documentation.
 
-**Join us in advancing a field where AI systems are not only more powerful, but more understandable, accountable, and adaptive—by default.**
+**Join us in advancing a field where AI systems are not only more intelligent, but more understandable, accountable, and adaptive—by default.**
 
 *Recursive Labs — Building the Recursive Core for Trustworthy AI*
 
 ## Link Hub
 
-## **Research Publications**
-**[NeurIPS 2025 Position Papers](https://doi.org/10.5281/zenodo.15485942)**
-- [**Intelligence Emerges From Iterative Self-Reference**](https://doi.org/10.5281/zenodo.15485942)
-- [**Model Silence Should Be a Primary Interpretability Signal**](https://doi.org/10.5281/zenodo.15485942)
-- [**Formal Foundations for Constraint-Driven Information Emergence**](https://doi.org/10.5281/zenodo.15485942)
-- [**A Mathematical Framework for Understanding Complex Systems Through Their Constraints**](https://doi.org/10.5281/zenodo.15485942)
-- [**AI Research Must Shift From Output Analysis**](https://doi.org/10.5281/zenodo.15485942)
-- [**A Unified Framework Should Replace Fragmented Failure Mode Analysis**](https://doi.org/10.5281/zenodo.15485942)
-- [**Language Model Development Must Prioritize Self-Reference**](https://doi.org/10.5281/zenodo.15485942)
-- [**Language Model Interpretability Research Must Shift from Output Analysis**](https://doi.org/10.5281/zenodo.15485942)
-- [**Machine Learning Must Study Constraint**](https://doi.org/10.5281/zenodo.15485942)
-- [**Science Must Adopt Constraint**](https://doi.org/10.5281/zenodo.15485942)
-- [**Scientific Unification Demands Study of Constraint**](https://doi.org/10.5281/zenodo.15485942)
 
-
-
-### [Clarifying Symbolic Residue](https://github.com/davidkimai/clarifying-symbolic-residue)
+## [Context Engineering](https://github.com/davidkimai/Context-Engineering)
 
 ## David Kim – Finetuning Reflective Reasoning, Symbolic Interpretability & Attribution Infrastructure  
 [**GitHub Profile → davidkimai**](https://github.com/davidkimai)
+
+
 
 ### Reflective Emergence Self-Evaluation Training Dataset
 - [Symbolic Residue Database](https://github.com/davidkimai/symbolic-residue-db)
@@ -59,6 +46,8 @@ We collaborate openly with the community and are committed to rigorous, humility
 - [Modeling Biochemical Drug Discoveries](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/biochemical-discoveries)
 - [Modeling Scientific Breakthroughs](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/breakthroughs)
 - [Modeling Theorem Proofs](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/theorem_proofs)
+
+
 ###  Reflective QKOV Attribution Infrastructures
 - [Claude QKOV Attributions](https://github.com/davidkimai/claude-qkov-attributions)  
 - [DeepSeek QKOV Attributions](https://github.com/davidkimai/deepseek-qkov-attributions)
@@ -107,11 +96,6 @@ We collaborate openly with the community and are committed to rigorous, humility
 - [FRAME (arXiv)](https://github.com/caspiankeyes/FRAME-arXiv-Publication)  
 - [AEGIS Security Architecture](https://github.com/caspiankeyes/AEGIS)
 
-###  Institutional Mission Audits
-- [Epistemic Audit (Anthropic)](https://github.com/caspiankeyes/Epistemic-Audit-Anthropic-Case-Study)  
-- [Modeling Institutional Ego](https://github.com/caspiankeyes/Modeling-Institutional-Ego-Anthropic-Case-Study)  
-- [Regulatory Misalignment (Anthropic)](https://github.com/caspiankeyes/Regulatory-Misalignment-Anthropic-Case-Study)  
-- [Claude-Pantheon](https://github.com/caspiankeyes/Claude-Pantheon)
 
 
 ## Shared Research Infrastructure & Alignment Tooling
@@ -127,7 +111,7 @@ We collaborate openly with the community and are committed to rigorous, humility
 
 
 
-## In Progress: Pretraining-Centric Governance Tools
+## In Progress
 
 - [system-prompts-library](https://github.com/davidkimai/system-prompts-library)  
 - [symbolic-tokenizer](https://github.com/caspiankeyes/symbolic-tokenizer)  
@@ -141,8 +125,5 @@ For questions, context requests, or internal coordination:
 - **David Kim**: [ai.interpreter@proton.me](mailto:ai.interpreter@proton.me)  
 - **Caspian Keyes**: [recursivelabs.ai@proton.me](mailto:recursivelabs.ai@proton.me)  
 
-> This welcome portal provides **reflection-eliciting datasets, interpretability scaffolds, symbolic reasoning protocols, and multi-agent coordination layers**—entirely aligned with Essential AI’s mission to build models that self-correct before they complete.
->
-> **→ Designed for integration into SOTA reflection benchmarks, adversarial testing pipelines, and interpretability-first architectures.**
 
 **Let’s scale reflection as a capability—not a feature, but a principle.**
