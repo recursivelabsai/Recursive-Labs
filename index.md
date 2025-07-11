@@ -13,9 +13,9 @@ title: Recursive Labs
 
 ## Enabling Transparent and Adaptive Memory for Long Horizon Agents
 
-Recursive Labs is building fundamental semantic and contextual infrastructure for the next generation of AI—where agents are composable, memory-aware, and robustly interpretable by design. As language models and agent frameworks become core infrastructure, reliability, traceability, and alignment are no longer add-ons—they are critical requirements for responsible, scalable deployment.
+Recursive Labs is building fundamental semantic memory and contextual infrastructure for the next generation of AI—where agents are composable, memory-aware, and robustly interpretable by design. As language models and agent frameworks become core infrastructure, reliability, traceability, and alignment are no longer add-ons—they are critical requirements for responsible, scalable deployment.
 
-We believe the future of AI will be defined by systems that can reason transparently, adapt persistently, and learn safely in dynamic environments. Our work addresses the biggest challenges facing the field today:
+We believe the future of AI will be defined by systems that can reason transparently, adapt persistently, and learn safely in dynamic environments. The next frontier will be built on this layer. Our work addresses the biggest challenges facing the field today:
 
 - **Interpretability:** We deliver agent-native tools for attribution, uncertainty quantification, and reasoning traceability—surfacing not just what models predict, but why, how, and where they hesitate.
 - **Persistent Memory:** Our adaptive memory schemas enables agents to retain, retrieve, and attribute context across sessions, unlocking robust “save and resume” for complex workflows and collaborative multi-agent systems.
@@ -111,7 +111,7 @@ We collaborate openly with the community and are committed to rigorous, humility
 
 
 
-## In Progress: Pretraining-Centric Governance Tools
+## In Progress
 
 - [system-prompts-library](https://github.com/davidkimai/system-prompts-library)  
 - [symbolic-tokenizer](https://github.com/caspiankeyes/symbolic-tokenizer)  
@@ -125,8 +125,5 @@ For questions, context requests, or internal coordination:
 - **David Kim**: [ai.interpreter@proton.me](mailto:ai.interpreter@proton.me)  
 - **Caspian Keyes**: [recursivelabs.ai@proton.me](mailto:recursivelabs.ai@proton.me)  
 
-> This welcome portal provides **reflection-eliciting datasets, interpretability scaffolds, symbolic reasoning protocols, and multi-agent coordination layers**—entirely aligned with Essential AI’s mission to build models that self-correct before they complete.
->
-> **→ Designed for integration into SOTA reflection benchmarks, adversarial testing pipelines, and interpretability-first architectures.**
 
 **Let’s scale reflection as a capability—not a feature, but a principle.**
