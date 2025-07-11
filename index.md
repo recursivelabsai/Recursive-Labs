@@ -2,7 +2,6 @@
 layout: default
 title: Recursive Labs
 ---
-# [Portfolio](https://github.com/recursivelabsai/recursivelabsai.github.io/blob/main/PORTFOLIO.pdf) 
 ## [GitHub](https://github.com/recursivelabsai) | [Hugging Face](https://huggingface.co/recursivelabsai) 
 
 ## NeurIPS 2025 Papers:
