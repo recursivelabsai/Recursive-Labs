@@ -11,9 +11,6 @@ title: Recursive Labs
 > *AI Research and Utility For Agents Advancing Discovery At The Frontier*
 
 
-## **Research Publications**
-**[NeurIPS 2025 Position Papers](https://doi.org/10.5281/zenodo.15485942)**
-
 ## Enabling Transparent and Adaptive Memory for Long Horizon Agents
 
 Recursive Labs is building fundamental semantic and contextual infrastructure for the next generation of AI—where agents are composable, memory-aware, and robustly interpretable by design. As language models and agent frameworks become core infrastructure, reliability, traceability, and alignment are no longer add-ons—they are critical requirements for responsible, scalable deployment.
