@@ -15,7 +15,7 @@ title: Recursive Labs
 
 Recursive Labs is building fundamental semantic and contextual infrastructure for the next generation of AI—where agents are composable, memory-aware, and robustly interpretable by design. As language models and agent frameworks become core infrastructure, reliability, traceability, and alignment are no longer add-ons—they are critical requirements for responsible, scalable deployment.
 
-We believe the future of AI will be defined by systems that can reason transparently, adapt persistently, and learn safely in dynamic environments. The next frontier of intelligent systems will be built on this semantic and context layer. Our work addresses the biggest challenges facing the field today:
+We believe the future of AI will be defined by systems that can reason transparently, adapt persistently, and learn safely in dynamic environments. The next frontier of intelligent systems will be built on this semantic and contextual layer. Our work addresses the biggest challenges facing the field today:
 
 - **Interpretability:** We deliver agent-native tools for attribution, uncertainty quantification, and reasoning traceability—surfacing not just what models predict, but why, how, and where they hesitate.
 - **Persistent Memory:** Our adaptive memory schemas enables agents to retain, retrieve, and attribute context across sessions, unlocking robust “save and resume” for complex workflows and collaborative multi-agent systems.
