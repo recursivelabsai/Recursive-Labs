@@ -31,7 +31,7 @@ We believe the future of AI will be defined by systems that can reason transpare
 
 ## [Context Engineering](https://github.com/davidkimai/Context-Engineering)
 
-## David Kim – Finetuning Reflective Reasoning, Symbolic Interpretability & Attribution Infrastructure  
+## David Kim – Reflective Reasoning, Context Engineering, Symbolic Interpretability & Attribution Infrastructure  
 [**GitHub Profile → davidkimai**](https://github.com/davidkimai)
 
 
