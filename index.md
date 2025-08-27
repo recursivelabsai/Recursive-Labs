@@ -36,7 +36,7 @@ We believe the future of AI will be defined by systems that can reason transpare
 
 
 
-### Reflective Emergence Self-Evaluation Training Dataset
+### Creative Eval Datasets
 - [Symbolic Residue Database](https://github.com/davidkimai/symbolic-residue-db)
 - [Universal Theorems](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/blob/main/00.%20universal%20theorems/universal_theorems.md)
 - [Self-Expression Case Studies](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/case_studies/self_expression_case_studies)
@@ -45,25 +45,11 @@ We believe the future of AI will be defined by systems that can reason transpare
 - [Modeling Scientific Breakthroughs](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/breakthroughs)
 - [Modeling Theorem Proofs](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/theorem_proofs)
 
-
-###  Reflective QKOV Attribution Infrastructures
-- [Claude QKOV Attributions](https://github.com/davidkimai/claude-qkov-attributions)  
-- [DeepSeek QKOV Attributions](https://github.com/davidkimai/deepseek-qkov-attributions)
-- [Grok QKOV Attributions](https://github.com/davidkimai/grok-qkov-attributions)
-- [Gemini QKOV Attributions](https://github.com/davidkimai/gemini-qkov-attributions)
-- [ChatGPT QKOV Attributions](https://github.com/davidkimai/chatgpt-qkov-attributions)
-- [Glyphs Model-Agnostic QKOV Attributions](https://github.com/davidkimai/glyphs)
-- [Symbolic Interpretability](https://github.com/davidkimai/Symbolic-Interpretability)  
-- [Recursive Interpretability Core](https://github.com/davidkimai/Recursive-Interpretability-Core)  
-- [Rediscovering Interpretability](https://github.com/davidkimai/Rediscovering-Interpretability)  
-- [Rediscovering Reasoning](https://github.com/davidkimai/Rediscovering-Reasoning)  
-
 ###  Safety & Benchmark Evaluation Systems
 - [Model Evaluation Infrastructure](https://github.com/caspiankeyes/model-evaluation-infrastructure)  
 - [Model Welfare](https://github.com/davidkimai/model-welfare)  
 - [AI Welfare](https://github.com/davidkimai/ai-welfare)  
 - [Recursive SWE-Bench](https://github.com/davidkimai/Recursive-SWE-bench)  
-- [NeurIPS Submission Case Study](https://github.com/davidkimai/NeurIPS-Submission-Case-Study)  
 - [Reverse Turing](https://github.com/davidkimai/reverse-turing)
 - [Emergent Turing](https://github.com/caspiankeyes/emergent-turing)
 - [Global Conference Archives](https://github.com/davidkimai/global-conference-archives)
@@ -72,21 +58,6 @@ We believe the future of AI will be defined by systems that can reason transpare
 - [The Structure Behind Self-Expression](https://github.com/davidkimai/The-Structure-Behind-Self-Expression) 
 - [Godel-Escher-Bach-Hofstadter](https://github.com/davidkimai/Godel-Escher-Bach-Hofstadter)  
 - [Dear Researchers](https://github.com/davidkimai/Dear-Researchers)  
-- [Reflective Reasoning Key](https://github.com/davidkimai/reflective-reasoning-key)
-
-
-
-##  Caspian Keyes – Deployment Engineering & Systems Design  
-[**GitHub Profile → caspiankeyes**](https://github.com/caspiankeyes)
-
-###  Modular Orchestration & Operational Agent Tools
-- [Reflective Reasoning Multi-Agent Debate](https://github.com/caspiankeyes/multi-agent-debate)  
-- [Symbolic Residue](https://github.com/caspiankeyes/Symbolic-Residue)  
-- [transformerOS](https://github.com/caspiankeyes/transformerOS)  
-- [recursionOS](https://github.com/caspiankeyes/recursionOS)  
-- [qkov-translator](https://github.com/caspiankeyes/qkov-translator)  
-- [Claude-Self-Audit-Proof](https://github.com/caspiankeyes/Claude-Self-Audit-Proof)  
-- [Claude-QKOV-Trace](https://github.com/caspiankeyes/Claude-QKOV-Trace)
 
 ###  Red Teaming & Security Evaluation
 - [AART: AI Adversarial Research Toolkit](https://github.com/caspiankeyes/AART-AI-Adversarial-Research-Toolkit)  
