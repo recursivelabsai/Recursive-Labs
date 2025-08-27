@@ -36,7 +36,7 @@ We believe the future of AI will be defined by systems that can reason transpare
 
 
 
-### Creative Eval Datasets
+### Emergent Behavior Investigations
 - [Symbolic Residue Database](https://github.com/davidkimai/symbolic-residue-db)
 - [Universal Theorems](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/blob/main/00.%20universal%20theorems/universal_theorems.md)
 - [Self-Expression Case Studies](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/case_studies/self_expression_case_studies)
